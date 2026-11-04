@@ -76,25 +76,21 @@ I enjoy working on projects that combine AI models, backend systems, APIs, and r
 
 <div align="center">
 
-<a href="https://github.com/ahmadhassaann/Art-Craft-Chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadhassaann&repo=Art-Craft-Chatbot&theme=tokyonight&hide_border=true" />
-</a>
+### AI & Machine Learning
 
-<a href="https://github.com/ahmadhassaann/PDC_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadhassaann&repo=PDC_project&theme=tokyonight&hide_border=true" />
-</a>
+| Project | Description | Repository |
+|---|---|---|
+| **Art-Craft Chatbot** | AI-powered chatbot integrating NLP, RAG, speech recognition, and text-to-speech. | [View Project](https://github.com/ahmadhassaann/Art-Craft-Chatbot) |
+| **Parallel Deep Learning** | Parallelization of deep learning workloads using OpenMP. | [View Project](https://github.com/ahmadhassaann/PDC_project) |
+| **Urdu Story Generation** | Urdu text generation using NLP and tokenizer techniques. | [View Project](https://github.com/ahmadhassaann/NLP_Urdu_Story_Generation) |
 
-<a href="https://github.com/ahmadhassaann/NLP_Urdu_Story_Generation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadhassaann&repo=NLP_Urdu_Story_Generation&theme=tokyonight&hide_border=true" />
-</a>
+### Software Development
 
-<a href="https://github.com/ahmadhassaann/TreeDB-Player-Game-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadhassaann&repo=TreeDB-Player-Game-System&theme=tokyonight&hide_border=true" />
-</a>
+| Project | Description | Repository |
+|---|---|---|
+| **TreeDB Player Game System** | C++ project demonstrating data structures and game-system implementation. | [View Project](https://github.com/ahmadhassaann/TreeDB-Player-Game-System) |
 
 </div>
-
----
 
 ## Currently Exploring
 
