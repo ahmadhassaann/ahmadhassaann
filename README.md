@@ -214,7 +214,6 @@ Deep learning, neural networks and model development
 
 ---
 
-<!-- CONNECT -->
 
 <h2 align="center">LET'S CONNECT</h2>
 
@@ -224,17 +223,17 @@ Deep learning, neural networks and model development
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ahmad-hassaann/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_COMPLETE_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Open to AI/ML Engineering Internships and Collaboration**
+<b>Open to AI/ML Engineering Internships and Collaboration</b>
 
 </div>
 
